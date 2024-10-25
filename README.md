@@ -22,7 +22,7 @@ Puedes acceder al cuaderno de Jupyter completo [aquí](https://github.com/CalebS
   - Precio de Apertura, Máximo, Mínimo, Cierre
   - Volumen de Transacciones
   - Retornos Diarios Calculados
-- Período de tiempo: 2015-2023.
+- Periodo de tiempo: 2015-2023.
 
 ---
 
